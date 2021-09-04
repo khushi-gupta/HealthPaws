@@ -32,7 +32,7 @@
      npm install
    ```
    ```
-     Node index.js
+     node index.js
    ```
    <h3> Open your browser and type localhost:3000 and enter.</h3>
    
