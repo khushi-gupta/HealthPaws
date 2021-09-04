@@ -1,0 +1,55 @@
+body{
+    background-color: #C5D5EA;
+    color:#111D4A;
+    margin: 0;
+}
+h1{
+    font-family: 'Quicksand', sans-serif;
+    text-align: center;
+    font-size: 60px;
+}
+.pet_img{
+    padding-left: 30%;
+    width: 40%;
+}
+.header{
+position: relative;
+background-color:#B4687A;
+padding: 0.5%;
+}
+a{
+  text-decoration: none;
+  position: absolute;
+}
+#webname{
+  font-family: 'Quicksand', sans-serif;
+  font-size: 220%;
+  margin-top:0.5%;
+  left:4%;
+  color:#C5D5EA;
+}
+.links{
+  font-size: 160%;
+  font-family: 'Quicksand', sans-serif;
+  margin-top: 1%;
+  color: #C5D5EA;
+}
+#hd{
+  left:40%;
+}
+#adopt{
+  left:62%;
+}
+#products{
+  left:75%;
+}
+#contact{
+  right: 5%;
+}
+#paw{
+  height: 50%;
+  width:2.7%;
+  position: relative;
+  margin-top:0.5%;
+  right:48%;
+}
