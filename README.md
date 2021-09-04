@@ -19,10 +19,9 @@
   
 ## <h2>🛠️ Installation<h2>
        1. Open command prompt:
-          ```
-  
-          git clone https://github.com/khushi-gupta/HealthPaws.git
-          ```
+   ```
+     git clone https://github.com/khushi-gupta/HealthPaws.git
+   ```
   
   
   
