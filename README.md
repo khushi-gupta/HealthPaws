@@ -51,6 +51,7 @@
 ## 🤝 Contributing:
    
      If you wish to contribute in any possible way you are welcomed to do so by making a valid pull request.
+ ![alt text](https://github.com/khushi-gupta/HealthPaws/blob/master/home.jpeg?raw=true)
    
    
   
