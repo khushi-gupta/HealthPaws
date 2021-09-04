@@ -14,6 +14,7 @@
     ⚪ Express.js 
     ⚪ SAWO API 
     ⚪ JavaScript 
+    ⚪ BootStrap
     ⚪ HTML 
     ⚪ CSS 
   
@@ -33,7 +34,23 @@
    ```
      Node index.js
    ```
-   <h3> Open your browser and type localhost3000 and enter.</h3>
+   <h3> Open your browser and type localhost:3000 and enter.</h3>
+   
+   
+## :link:Refrences:
+   
+     -> https://www.aspca.org/pet-care/dog-care/common-dog-diseases
+     -> https://www.aspca.org/pet-care/cat-care/common-cat-diseases
+     -> https://www.pupkart.com/
+     -> https://www.thesprucepets.com/common-diseases-in-pet-birds-390443
+     -> https://www.amazon.in/Dogs-Supplies/b/?ie=UTF8&node=4771342031&ref_=sv_petsupplies_2
+     -> https://www.flaticon.com/authors/itim2101
+     -> https://www.flaticon.com/authors/smashicons
+     -> https://www.freepik.com/
+   
+## 🤝 Contributing:
+   
+     If you wish to contribute in any possible way you are welcomed to do so by making a valid pull request.
    
    
   
