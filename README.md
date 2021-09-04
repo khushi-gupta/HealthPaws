@@ -33,7 +33,7 @@
    ```
      Node index.js
    ```
-    <h3> Open your browser and type localhost3000 and enter.</h3>
+   <h3> Open your browser and type localhost3000 and enter.</h3>
    
    
   
