@@ -1,0 +1,125 @@
+body,html{
+  height: 100%;
+  margin: 0;
+  text-align: center;
+  background-color: #C5D5EA;
+}
+.header{
+position: relative;
+background-color:  #B4687A;
+padding: 0.5%;
+}
+a{
+  text-decoration: none;
+  position: absolute;
+}
+#webname{
+  font-family: 'Quicksand', sans-serif;
+  font-size: 220%;
+  margin-top:0.5%;
+  left:4%;
+  color:#C5D5EA;
+}
+.links{
+  font-size: 160%;
+  font-family: 'Quicksand', sans-serif;
+  margin-top: 1%;
+  color: #C5D5EA;
+}
+#hd{
+  left:40%;
+}
+#adopt{
+  left:62%;
+}
+#products{
+  left:75%;
+}
+#contact{
+  right: 5%;
+}
+#paw{
+  height: 50%;
+  width:2.7%;
+  position: relative;
+  margin-top:0.5%;
+  right:48%;
+}
+h1{
+  font-family: 'Great Vibes', cursive;
+  margin-bottom: 0;
+  font-size: 350%;
+  color: #111D4A;
+}
+h2{
+  margin: 0%;
+  font-size: 200%;
+  color: #111D4A;
+  font-family: 'Quicksand', sans-serif;
+}
+.adoptcard{
+  display: inline-block;
+  height: 400px;
+  width: 300px;
+  margin: 2%;
+  background-color: #B4687A;
+}
+
+.petimg{
+  margin-top: 3%;
+  object-fit: contain;
+  height: 250px;
+  width: 250px;
+}
+p{
+  font-family: 'Quicksand', sans-serif;
+  font-size: 140%;
+  color: #C5D5EA;
+  margin: 1%;
+  font-weight: bolder;
+}
+h3{
+  margin: 0;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 200%;
+  color: #111D4A;
+  font-weight: bolder;
+  text-decoration: underline;
+}
+#btn{
+  width: 30%;
+  height: 15%;
+  margin-top:5%;
+  margin-bottom: 10%;
+  position: relative;
+  left:0;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 220%;
+  border-radius: 2%;
+  background: #B4687A;
+  font-weight: bolder;
+  color: #111D4A;
+}
+#btn:hover{
+  box-shadow: 1px 1px 30px 2px white;
+}
+@media (max-width:1028px) {
+#webname{
+  font-size: 120%;
+}
+.links{
+  font-size: 70%
+}
+h1{
+  font-size: 100%;
+}
+h2{
+  font-size: 90%;
+}
+h3{
+  font-size: 140%;
+}
+p{
+  font-size: 100%;
+}
+}

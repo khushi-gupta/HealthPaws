@@ -1,0 +1,91 @@
+body,html{
+  height: 100%;
+  margin: 0;
+  text-align: center;
+  background-color: #C5D5EA;
+}
+.header{
+position: relative;
+background-color:#B4687A;
+padding: 0.5%;
+}
+a{
+  text-decoration: none;
+  position: absolute;
+}
+#webname{
+  font-family: 'Quicksand', sans-serif;
+  font-size: 220%;
+  margin-top:0.5%;
+  left:4%;
+  color:#C5D5EA;
+}
+.links{
+  font-size: 160%;
+  font-family: 'Quicksand', sans-serif;
+  margin-top: 1%;
+  color: #C5D5EA;
+}
+#hd{
+  left:40%;
+}
+#adopt{
+  left:62%;
+}
+#products{
+  left:75%;
+}
+#contact{
+  right: 5%;
+}
+#paw{
+  height: 50%;
+  width:2.7%;
+  position: relative;
+  margin-top:0.5%;
+  right:48%;
+}
+h1{
+  font-family: 'Great Vibes', cursive;
+  font-size: 350%;
+  color: #111D4A;
+}
+h2{
+  margin-top: 3%;
+  margin-bottom: 1%;
+  font-size: 200%;
+  color: #111D4A;
+  font-family: 'Quicksand', sans-serif;
+}
+.form-example{
+  font-size: 100%;
+  font-family: 'Quicksand', sans-serif;
+  font-weight: bolder;
+  margin: 1%;
+  font-size: 120%;
+}
+input{
+  position: relative;
+  left:1%;
+  font-size: 100%;
+}
+#btn{
+  font-size: 140%;
+  color: #111D4A;
+  background-color:#B4687A;
+}
+p{
+  padding: 1%;
+  color: #111D4A;
+}
+@media (max-width:1028px) {
+#webname{
+  font-size: 120%;
+}
+.links{
+  font-size: 70%
+}
+h1{
+  font-size: 100%;
+}
+}

@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Adopt</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="formcss.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.1/css/all.css">
+    <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@500&display=swap" rel="stylesheet">
+  </head>
+  <body>
+    <div class="header" id="home">
+      <i class="fas fa-paw fa-2x" id="paw"></i>
+      <a href="/home" id="webname">HealthPaws</a>
+      <a href="/diseases" class="links" id="hd">Health&Diseases</a>
+      <a href="/adopt" class="links" id="adopt">Adopt</a>
+      <a href="/products" class="links" id="products">Products</a>
+      <a href="#contact" class="links" id="contact">Contact</a>
+    </div>
+          <h1>HealthPaws</h1>
+          <h2>Fill the form below!</h2>
+
+
+      <form action="mailto:ai.guptakhushi@gmail.com" method="post" class="form-example">
+        <div class="form-example">
+          <label for="name">Name: </label>
+          <input type="text" name="Name" id="name" required>
+        </div>
+        <div class="form-example">
+          <label for="email">Email:</label>
+          <input type="email" name="Email" id="email" required>
+        </div>
+
+        <div class="form-example">
+          <label for="tele">Phone:</label>
+          <input type="tel" placeholder="888 888 8888" pattern="[0-9]{3}[0-9]{3}[0-9]{4}" maxlength="10" name="PhoneNumber:" id="phone" required>
+        </div>
+
+        <div class="form-example">
+          <label for="uid">Unique ID:</label>
+          <input type="number" name="Unique ID" id="uid" required>
+        </div>
+        <div class="form-example">
+          <input id="btn" type="submit" value="Adopt!">
+
+          <p>When you click Adopt,you will be redirected to your mailbox. Send Us an Email and we will contact you shortly! Till then,keep browsing! :)</p>
+        </div>
+
+
+      </form>
+
+      <script src="script.js"></script>
+  </body>
+</html>
