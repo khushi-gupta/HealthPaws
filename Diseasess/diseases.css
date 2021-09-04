@@ -53,3 +53,31 @@ a{
   margin-top:0.5%;
   right:48%;
 }
+h2{
+    text-align: center;
+    color: #111D4A;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 110%;
+  }
+  .footer{
+    margin-left: 350px;
+    margin-right: 350px;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    text-align: center;
+    color: #111D4A;
+    padding: 1%;
+  }
+  i{
+    color:#111D4A;
+  }
+  i:hover{
+    color:#11AAAA;
+  }
+.footerr{
+  background-color: #B4687A;
+}
+.a{
+  position: relative;
+  margin-bottom: 1%;
+}
