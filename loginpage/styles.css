@@ -1,0 +1,11 @@
+body,html{
+  height: 100%;
+  margin: 0;
+  text-align: center;
+  background-color: #C5D5EA;
+  color:  #111D4A;
+  font-family: 'Quicksand', sans-serif;
+}
+h2{
+  margin-top:1%; 
+}
