@@ -3,11 +3,11 @@
     
     The highlights of our project are:
     1. Health & Diseases :
-       Methodically crafted information about commom diseases and health complications faced by our pets.
+       Methodically crafted information about common diseases and health complications faced by our pets.
     2. Adoption :
-       Information about animals up for adoption.Users can adopt and provide love and care to them.
+       Information about animals up for adoption. Users can adopt and provide love and care to them.
     3. Products :
-       Necessary information about products related to healthcare of pets.
+       Necessary information about products related to the healthcare of pets.
        
 ## <h2>:computer:Technology Stack:</h2>
     ⚪ Node.js 
