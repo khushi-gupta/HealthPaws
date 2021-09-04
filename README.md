@@ -18,10 +18,24 @@
     ⚪ CSS 
   
 ## <h2>🛠️ Installation<h2>
-       1. Open command prompt:
+   ```
+     Open command prompt:
+   ```
    ```
      git clone https://github.com/khushi-gupta/HealthPaws.git
    ```
+   ```
+     cd HealthPaws
+   ```
+   ```
+     npm install
+   ```
+   ```
+     Node index.js
+   ```
+    <h3> Open your browser and type localhost3000 and enter.</h3>
+   
+   
   
   
   
