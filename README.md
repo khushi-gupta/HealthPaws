@@ -1,5 +1,5 @@
 ## <h1>🐾[HealthPaws](https://health-paws.herokuapp.com/)</h1>
-   HealthPaws is a project aimed at extensive pet care.Its purpose is to provide accurate data and information about pet healthcare to users all around the globe.
+   HealthPaws is a project aimed at extensive pet care.Its purpose is to provide accurate data and information about pet healthcare to users all around the globe. You can view the live demo [here](https://health-paws.herokuapp.com/).
     
     The highlights of our project are:
     1. Health & Diseases :
